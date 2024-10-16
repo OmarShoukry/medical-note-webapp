@@ -1,1 +1,77 @@
-I'm here to help generate medical notes from doctor-patient visit transcripts. However, you haven't provided a standard medical transcript for analysis. If you need assistance with medical documentation based on a doctor-patient interaction, please ensure the conversation includes relevant medical information such as symptoms, medical history, examination findings, and any discussion of treatment or follow-up care. Remember to start a "New Visit" and to click the mic to record the conversation at the start of the visit, and click again to stop. Press enter or use the send button to submit the transcript for the SOAP note.
+**Subjective:**
+
+Chief Complaint:
+The patient reports discomfort in the lower abdomen, describing it as a sensation like "someone's poking me real hard" during lifting and coughing activities, accompanied by a noticeable "weird bulge" in the same area.
+
+History of Present Illness:
+The patient has been experiencing localized pain and a bulge in the lower abdomen, exacerbated by physical activities such as lifting and coughing. The described symptoms suggest a possible hernia, characterized by an organ or fatty tissue pushing through a weak spot in the surrounding muscle or connective tissue. The duration of symptoms was not specified.
+
+Past Medical History:
+The patient did not provide information on past medical conditions, surgeries, allergies, or family medical history during the conversation.
+
+Medications:
+No current medications were mentioned.
+
+Allergies:
+No allergies were noted.
+
+Lifestyle:
+The patient's lifestyle, including smoking, alcohol consumption, exercise, and diet, was not discussed. However, the patient expresses concern about missing "the grind," implying they may have an active or physically demanding lifestyle.
+
+**Objective:**
+
+Vital Signs:
+Vital signs were not provided in the transcript.
+
+Physical Examination Findings:
+A physical examination is planned to confirm the diagnosis of a suspected hernia, focusing on the lower abdomen where the patient reports discomfort and observes a bulge.
+
+Laboratory and Diagnostic Results:
+Imaging tests are scheduled to confirm the diagnosis and to determine the exact type and size of the hernia.
+
+Assessment of Systems:
+The assessment focused primarily on the musculoskeletal and possibly digestive systems due to the suspected hernia. No other systems were directly assessed during this conversation.
+
+**Assessment:**
+
+Diagnosis:
+Provisional diagnosis of hernia based on patient's reported symptoms of pain and a physical bulge in the lower abdomen, exacerbated by physical exertion.
+
+Clinical Impressions:
+The patient likely has a hernia requiring further diagnostic imaging for confirmation and assessment of the type and size, which will guide treatment options.
+
+**Plan:**
+
+Treatment Plan:
+- Schedule imaging tests to confirm hernia diagnosis.
+- Discuss treatment options post-imaging, with surgery as a potential option to repair the hernia.
+- Provide a detailed recovery plan tailored to the patient’s needs, especially noting the requirement to avoid heavy lifting or strenuous exercise for 4-6 weeks post-surgery.
+
+Patient Education:
+- Educated the patient on the nature of hernias, including potential causes and symptoms.
+- Advised the patient to avoid activities that could exacerbate symptoms ahead of diagnostic confirmation and potential treatment.
+
+Follow-up:
+- Imaging tests will be scheduled as soon as possible to confirm the diagnosis.
+- A follow-up appointment will be arranged to discuss the imaging results and plan further treatment.
+
+**Patient Follow-up Note:**
+
+Dear [Patient],
+
+I hope this note finds you well. During your recent visit, we discussed your symptoms and concerns that suggest you might have a hernia. We've planned some imaging tests to get a clearer picture of what's going on and to confirm the diagnosis.
+
+Here are your next steps:
+1. Please attend the scheduled imaging appointment. The details of your appointment have been provided separately.
+2. Try to avoid lifting heavy objects or any activities that increase pressure on your abdomen, as this can worsen your symptoms.
+3. We'll go through the results together and discuss the best treatment options. If surgery is required, I'll ensure you have all the information you need to make a comfortable decision.
+4. Your recovery plan will be personalized, focusing on getting you back to your daily activities as safely and quickly as possible.
+
+Remember, we're here for you every step of the way. If you have any questions or concerns, please don't hesitate to contact our office.
+
+Take care, and see you soon for your follow-up.
+
+Warm regards,
+
+[Your Doctor’s Name]
+[Contact Information]

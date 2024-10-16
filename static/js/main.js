@@ -1,15 +1,10 @@
-let recording = false;
 
 function startRecording() {
     document.getElementById("startBtn").disabled = true;
     document.getElementById("stopBtn").disabled = false;
 
     fetch('/start_recording', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ "stop": false })
+        method: 'POST'
     }).then(response => response.json()).then(data => {
         console.log(data.message);
     });
@@ -19,16 +14,11 @@ function stopRecording() {
     document.getElementById("startBtn").disabled = false;
     document.getElementById("stopBtn").disabled = true;
 
-    fetch('/start_recording', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ "stop": true })
+    fetch('/stop_recording', {
+        method: 'POST'
     }).then(response => response.json()).then(data => {
         console.log(data.message);
-
-        // After stopping the recording, generate the medical note
+        document.getElementById("output").innerText = "Recording saved: " + data.filename;
         generateNote();
     });
 }

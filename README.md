@@ -7,6 +7,7 @@ The app is built using Flask for the backend and HTML/JavaScript for the fronten
 
 * Start and stop recording with a simple button interface.
 * Records audio and saves it as a .wav file.
+* Generates a transcript and medical note saved as .txt files.
 * Frontend built with HTML and JavaScript.
 * Backend using Flask and PyAudio for audio processing.
 

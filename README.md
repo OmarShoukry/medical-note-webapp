@@ -12,11 +12,14 @@ The app is built using Flask for the backend and HTML/JavaScript for the fronten
 
 ## Installation
 
-- Clone the repository
-git clone [https://[github.com/your-username/audio-recorder-webapp.git](https://github.com/OmarShoukry/medical-note-webapp)](https://github.com/OmarShoukry/medical-note-webapp/)
-- Install dependencies:
+1. Clone the repository
+git clone [(https://github.com/OmarShoukry/medical-note-webapp)](https://github.com/OmarShoukry/medical-note-webapp/)
+
+2. Install dependencies:
 pip install -r requirements.txt
-- Run the Flask app:
+
+3. Run the Flask app:
 python3 app.py
-- Open your browser and navigate to:
+
+4. Open your browser and navigate to:
 http://127.0.0.1:5000

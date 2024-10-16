@@ -32,4 +32,4 @@ The app is built using Flask for the backend and HTML/JavaScript for the fronten
 
 * Start Recording: Click the "Start Recording" button to begin recording audio.
 
-*Stop Recording: Click the "Stop Recording" button to stop, the audio will be saved as `audio/conversation.wav`, a transcript will be saved as `generated/transcript.txt` and an SOAP format medical note will be saved as `generated/medicalnote.txt`
+* Stop Recording: Click the "Stop Recording" button to stop, the audio will be saved as `audio/conversation.wav`, a transcript will be saved as `generated/transcript.txt` and an SOAP format medical note will be saved as `generated/medicalnote.txt`

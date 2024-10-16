@@ -27,3 +27,9 @@ The app is built using Flask for the backend and HTML/JavaScript for the fronten
 4. Open your browser and navigate to:
 
  [(http://127.0.0.1:5000)](http://127.0.0.1:5000)
+
+##Usage 
+
+* Start Recording: Click the "Start Recording" button to begin recording audio.
+
+*Stop Recording: Click the "Stop Recording" button to stop, the audio will be saved as `audio/conversation.wav`, a transcript will be saved as `generated/transcript.txt` and an SOAP format medical note will be saved as `generated/medicalnote.txt`

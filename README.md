@@ -13,13 +13,17 @@ The app is built using Flask for the backend and HTML/JavaScript for the fronten
 ## Installation
 
 1. Clone the repository
+
 git clone [(https://github.com/OmarShoukry/medical-note-webapp)](https://github.com/OmarShoukry/medical-note-webapp/)
 
 2. Install dependencies:
+
 pip install -r requirements.txt
 
 3. Run the Flask app:
+
 python3 app.py
 
 4. Open your browser and navigate to:
+
 http://127.0.0.1:5000

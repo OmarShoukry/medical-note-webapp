@@ -28,7 +28,7 @@ The app is built using Flask for the backend and HTML/JavaScript for the fronten
 
  [(http://127.0.0.1:5000)](http://127.0.0.1:5000)
 
-##Usage 
+## Usage 
 
 * Start Recording: Click the "Start Recording" button to begin recording audio.
 
